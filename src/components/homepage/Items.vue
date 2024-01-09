@@ -6,7 +6,7 @@ import ItemsCard from '@/components/ItemsCard.vue'
 const items = ref([
     { id: 1, title: "Mobile UI Kit", descript: "Mobile UI Kit", image: "items-1.jpg" },
     { id: 2, title: "Online Doctor Consultation", descript: "Website UI Kit", image: "items-2.jpg" },
-    { id: 3, title: "Mobile UI Kit", descript: "Mobile UI Kit", image: "items-3.jpg" },
+    { id: 3, title: "Banking Crypto", descript: "Mobile UI Kit", image: "items-3.jpg" },
 ]);
 </script>
 
